@@ -3,7 +3,7 @@
 #include <cstdlib>
 #include <ctime>
 using namespace std;
-string ships[NBSHIP] = {"carrier", "cruiser", "destroyer","submarine", "torpedo" };
+string ships[NBSHIP] = {"carrier", "cruiser", "destroyer","submarine", "tordo" };
 
 
 int main()
